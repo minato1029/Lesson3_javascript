@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#menu {
+    border: black 1px solid;
+    padding: 5px;
+    text-align: center;
+    width: 200px;
+    margin: 0;
+}
+#menu dd {
+    background-color: #aaaaaa;
+    border: black 1px solid;
+    text-align: center;
+    margin: 0;
+    display: none;
+}
+#menu dt {
+    border: black 1px solid;
+}

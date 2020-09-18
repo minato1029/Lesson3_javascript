@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: #444444;
+}
+.slideShow {
+    width: 300px;
+    margin: auto;
+}
+.slideShow img {
+    width: 100%;
+    height: auto;
+}

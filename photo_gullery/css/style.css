@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: #444444;
+}
+body main .first {
+    text-align: center;
+    color: white;
+}
+body main .first img {
+    width: 300px;
+    height: auto;
+    margin: 20px 20px 0 20px;
+    border: white 2px solid;
+}
+body main .first p {
+    margin: 0 0 30px 0 ;
+}
+body main .thumb {
+    display: flex;
+    justify-content: center;
+}
+body main .thumb img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 50px;
+    border: white 2px solid;
+}
