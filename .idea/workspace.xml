@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b3d45d0-307f-41af-a42c-dc64f96b920f" name="Default Changelist" comment="" />
+    <list default="true" id="5b3d45d0-307f-41af-a42c-dc64f96b920f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/styleHumburgerMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexHumburgerMenu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexPrefecture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexWebAPI _test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jqueryHumburgerMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jqueryPrefecture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jqueryWebAPI_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,16 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fwwJA0G5ryrBEoCJ6qah8u0vIH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -68,11 +82,27 @@
       <updated>1597142388353</updated>
       <workItem from="1597142390363" duration="3216000" />
       <workItem from="1599552471824" duration="21660000" />
-      <workItem from="1600074432510" duration="10314000" />
+      <workItem from="1600074432510" duration="14211000" />
+      <workItem from="1600934070051" duration="48000" />
+      <workItem from="1600934150885" duration="1266000" />
+      <workItem from="1600935881026" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
